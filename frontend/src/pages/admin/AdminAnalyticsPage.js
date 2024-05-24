@@ -138,7 +138,7 @@ const AdminAnalyticsPage = () => {
         <AdminLinksComponent />
       </Col>
       <Col md={10}>
-        <h1>Black Friday Cumulative Revenue 11/26/2022 VS 11/27/2021</h1>
+        <h1>Black Friday Cumulative Revenue 11/26/2021 VS 11/27/2022</h1>
         <Form.Group controlId="firstDateToCompare">
           <Form.Label>Select First Date To Compare</Form.Label>
           <Form.Control
